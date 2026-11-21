@@ -1,0 +1,36 @@
+{
+  "routes": {
+    "/404": "/404.html",
+    "/admin": "/admin/index.html",
+    "/articles": "/articles/index.html",
+    "/chapter": "/chapter/index.html",
+    "/contact": "/contact/index.html",
+    "/cookies": "/cookies/index.html",
+    "/events": "/events/index.html",
+    "/history": "/history/index.html",
+    "/": "/index.html",
+    "/privacy": "/privacy/index.html",
+    "/terms": "/terms/index.html",
+    "/transparency": "/transparency/index.html",
+    "/_reports/unavailable": "/_reports/unavailable/index.html"
+  },
+  "reports": [],
+  "scriptHashes": [
+    "AvfQWTSTft8pcPTdMGCx+mjhEtPswIUlL3XX93lt+xM=",
+    "zFML+AEdb/HsbX66VlYzBOqJKNNHs5/WNGYP8JiblyY=",
+    "hLwUThF3FSIgLAgH+9jH6UFwmT5i21LsQ+5vCdyHZrw=",
+    "REkTQ3mZNdOnZ0xWxlKdqBEAWdIVpJdIT6tm57gvq8Y=",
+    "I7yzKIB9TL/4mVscQqTde8Wlpvlx1GjG1ufWB6Tfvjk=",
+    "QBdRd067L4XRl3boRCw+Pn/XRcNpBj9nsWhTjPFkwrY=",
+    "EvYjsiq/lpI9g8ah/5ugJ09DRdVJPEpmFQc9IKu/tGI=",
+    "KGBgWJLRg1DqaA6NhV13seKdv83HOy5ykAUGzZzDrxA=",
+    "ymtaTyx1KAQ0/wTA0P7QVw2aq0CJZUJhSwq9A9zDimw=",
+    "J3qfbi1qEcc8Bi7+cYGnspmHDhpAk0Bjsm/QfEW872I=",
+    "mpmErrCza5E3IMPNjzc4iCrFKX7XyMD7zajppy1SSqA=",
+    "j326md3DjZplYNh88DcLnK3LTcdkYYoKyfje0lP5VmA=",
+    "gKQVGaQUH9BTwhMJE/BRX7lFKOTm9xp9GLAXvbhje3Y=",
+    "aOSITP6KyFAycyUcktJgPb/wUVtiPyEgitm2MSPpLcY=",
+    "V+u1MYq4Nq8m8xlTUMO/Seao1uTeAHUx4/Uvhx6HN9Y="
+  ],
+  "installationVideoBytes": 23899615
+}
